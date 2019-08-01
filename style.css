@@ -119,7 +119,7 @@ p {
 }
 
 a {
-  color: red;
+  color: DarkBlue;
   text-decoration: none;
 }
 
@@ -127,7 +127,7 @@ a:link,
 a:focus,
 a:active {
   text-decoration: none;
-  color: red;
+  color: blue;
 }
 
 a:hover {
