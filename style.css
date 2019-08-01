@@ -97,6 +97,10 @@ img {
   height: 300px;
 }
 
+/* .float-image { */
+  /* float: left; */
+}
+
 ul, ol {
   margin: 15px 0px;
 }
